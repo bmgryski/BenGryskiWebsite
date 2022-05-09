@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Benjamin Gryski</title>
+        <meta name="Benjamin Gryski Website Main Page" content="An interactive web portfolio overviewing Benjamin Gryski's Education, Work Experience, Resume, Leadership Experience and Past Work Examples ">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>Benjamin Gryski</h1>
+        <h2>Client Success Manager at Geospark Analytics focusing in GIS Development and driven ESRI implementation of geopolitcal risk datasets.</h2>
+        
+        <a href="screenshots/quick-edit.png">
+            <img alt="A screenshot showing CSS Quick Edit" src="screenshots/quick-edit.png" />
+        </a>
+        
+        
+        
+        <h3>Projects in Brackets
+        <button onclick="window.location.href= '"</h3>
+        
+        
+        
+        <h3>Quick Edit for CSS and JavaScript</h3>
+        
+        
+     
+        <h3>Preview HTML and CSS changes live in the browser</h3>
+        
+        <h3>Live Highlight HTML elements and CSS rules</h3>
+        
+        
+        <h3>Quick View</h3>
+        
+        
+        <h3>Need something else? Try an extension!</h3>
+        
+        <h2>Get involved</h2>
+        
+        <ul>
+            <li><a href="http://brackets.io">Brackets.io</a></li>
+            <li><a href="http://blog.brackets.io">Brackets Team Blog</a></li>
+            <li><a href="https://github.com/adobe/brackets">Brackets on GitHub</a></li>
+            <li><a href="https://brackets-registry.aboutweb.com">Brackets Extension Registry</a></li>
+            <li><a href="https://github.com/adobe/brackets/wiki">Brackets Wiki</a></li>
+            <li><a href="https://groups.google.com/forum/#!forum/brackets-dev">Brackets Developer Mailing List</a></li>
+            <li><a href="https://twitter.com/brackets">@brackets on Twitter</a></li>
+            <li>Chat with Brackets developers on IRC in <a href="http://webchat.freenode.net/?channels=brackets&uio=d4">#brackets on Freenode</a></li>
+        </ul>
+        
+    </body>
+</html>
+<!--
+
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[     CODE THE WEB     ]:::::]
+    [:::::[  http://brackets.io  ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+
+-->
